@@ -1,0 +1,32 @@
+{
+    "listaProductos":[
+        {
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_956620-MLU75748315277_042024-F.webp",
+            "titulo": "Telescopio Reflector Tasco",
+            "precio": "299.900",
+            "descripcion": "Telescopio Tasco Spacestation 114x500mm Reflector Color Negro",
+            "stock": "4"
+        },
+        {
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_895370-MLU72967209668_112023-F.webp",
+            "titulo": "Telescopio Refractor Celestron",
+            "precio": "283.400",
+            "descripcion": "Telescopio Celestron Powerseeker 80eq Color Negro",
+            "stock": "3"
+        },
+        {
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_641719-MLU73338078260_122023-F.webp",
+            "titulo": "Telescopio Refractor Planex",
+            "precio": "99.990",
+            "descripcion": "Telescopio Astronómico Monocular F40070 Planex + Soporte Color Blanco",
+            "stock": "6"
+        },
+        {
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_639594-MLU78051602974_082024-F.webp",
+            "titulo": "Telescopio refractor Astromaster",
+            "precio": "226.916",
+            "descripcion": "Telescopio refractor Astromaster 70az, color azul",
+            "stock": "5"
+        }
+    ]
+}
